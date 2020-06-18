@@ -10,10 +10,12 @@ const AddTodo = () => {
         <div>
             <form onSubmit={(e) => {
                 e.preventDefault()
-                add({
-                    title,
-                    completed: false
-                })
+                if (title !== '') {
+                    add({
+                        title,
+                        completed: false
+                    })
+                }
                 setTitle('')
             }}>
                 <input
