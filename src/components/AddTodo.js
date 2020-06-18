@@ -14,6 +14,7 @@ const AddTodo = () => {
                     title,
                     completed: false
                 })
+                setTitle('')
             }}>
                 <input
                     type="text"
