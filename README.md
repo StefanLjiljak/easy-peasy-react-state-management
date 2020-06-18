@@ -1,3 +1,7 @@
+# Easy Peasy React State Management
+
+- svakog dana u svakom pogledu sve vise napreduje :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
