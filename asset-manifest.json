@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/easy-peasy-react-state-management/static/css/main.e8d17a31.chunk.css",
+    "main.js": "/easy-peasy-react-state-management/static/js/main.7fbd7344.chunk.js",
+    "main.js.map": "/easy-peasy-react-state-management/static/js/main.7fbd7344.chunk.js.map",
+    "runtime-main.js": "/easy-peasy-react-state-management/static/js/runtime-main.7b6f716e.js",
+    "runtime-main.js.map": "/easy-peasy-react-state-management/static/js/runtime-main.7b6f716e.js.map",
+    "static/js/2.675bd675.chunk.js": "/easy-peasy-react-state-management/static/js/2.675bd675.chunk.js",
+    "static/js/2.675bd675.chunk.js.map": "/easy-peasy-react-state-management/static/js/2.675bd675.chunk.js.map",
+    "index.html": "/easy-peasy-react-state-management/index.html",
+    "precache-manifest.c6651bb26ad3311016fdccf15abd7981.js": "/easy-peasy-react-state-management/precache-manifest.c6651bb26ad3311016fdccf15abd7981.js",
+    "service-worker.js": "/easy-peasy-react-state-management/service-worker.js",
+    "static/css/main.e8d17a31.chunk.css.map": "/easy-peasy-react-state-management/static/css/main.e8d17a31.chunk.css.map",
+    "static/js/2.675bd675.chunk.js.LICENSE.txt": "/easy-peasy-react-state-management/static/js/2.675bd675.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6f716e.js",
+    "static/js/2.675bd675.chunk.js",
+    "static/css/main.e8d17a31.chunk.css",
+    "static/js/main.7fbd7344.chunk.js"
+  ]
+}
