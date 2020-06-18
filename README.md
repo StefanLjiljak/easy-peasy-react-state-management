@@ -1,5 +1,7 @@
 # Easy Peasy React State Management
 
+https://stefanljiljak.github.io/easy-peasy-react-state-management/
+
 - svakog dana u svakom pogledu sve vise napreduje :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
