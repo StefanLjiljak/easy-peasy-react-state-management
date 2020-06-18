@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "770b9bb2f28cb79064c865eedfd84da1",
+    "revision": "a5474f0f3e383e1b4e6454029c440436",
     "url": "/easy-peasy-react-state-management/index.html"
   },
   {
-    "revision": "369e0d1862fe153e1327",
+    "revision": "bf0c878dd5f5f14a1691",
     "url": "/easy-peasy-react-state-management/static/css/main.e8d17a31.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/easy-peasy-react-state-management/static/js/2.675bd675.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "369e0d1862fe153e1327",
-    "url": "/easy-peasy-react-state-management/static/js/main.d5db3f3f.chunk.js"
+    "revision": "bf0c878dd5f5f14a1691",
+    "url": "/easy-peasy-react-state-management/static/js/main.666b2ff3.chunk.js"
   },
   {
     "revision": "ff60ec4b6208de4afed4",
